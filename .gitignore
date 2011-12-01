@@ -1,0 +1,10 @@
+bin/
+*.classpath
+*.project
+*~
+*.dat
+*.gif
+gen/
+out/
+test/
+default.properties
